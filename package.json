@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/db-migrate/mongodb.git"
+    "url": "https://github.com/SG2B/db-migrate-mongodb"
   },
   "keywords": [
     "db-migrate",
@@ -21,9 +21,9 @@
   "author": "Tobias Gurtzick <magic@wizardtales.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/db-migrate/mongodb/issues"
+    "url": "https://github.com/SG2B/db-migrate-mongodb/issues"
   },
-  "homepage": "https://github.com/db-migrate/mongodb",
+  "homepage": "https://github.com/SG2B/db-migrate-mongodb",
   "dependencies": {
     "bluebird": "^3.5.0",
     "db-migrate-base": "^1.3.3",
